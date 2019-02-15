@@ -8,7 +8,6 @@ def key_for_min_value(name_hash)
     # Have we set anything to the min value? If yes, compare to other numbers.
     if min_value == nil || value < min_value
       min_value = value
-
     end
   end
 # return key of min (adam)
