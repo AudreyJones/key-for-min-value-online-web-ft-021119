@@ -7,7 +7,7 @@ def key_for_min_value(name_hash)
   name_hash.each do |key,value|
 
     name_array <<
-      a <=> b
+
     end
   end
 # return key of min (adam)
